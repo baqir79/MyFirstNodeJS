@@ -1,0 +1,31 @@
+{
+  "name": "MyFirstNodeJS",
+  "version": "0.0.0",
+  "description": "My first Nodejs app to heroku",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baqir79/MyFirstNodeJS.git"
+  },
+  "keywords": [
+    "example",
+    "Nodejs",
+    "Heroku"
+  ],
+  "author": "Mohammed",
+  "license": "BlazingArrows",
+  "bugs": {
+    "url": "https://github.com/baqir79/MyFirstNodeJS/issues"
+  },
+  "homepage": "https://github.com/baqir79/MyFirstNodeJS",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.0.0"
+  },
+  "engines":{
+    "node": "0.10.x"
+   }
+}
